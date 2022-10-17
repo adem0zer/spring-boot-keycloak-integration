@@ -10,9 +10,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.adem</groupId>
-	<artifactId>spring-boot-keycloak-tutorial</artifactId>
+	<artifactId>spring-boot-keycloak-integration</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>spring-boot-keycloak-tutorial</name>
+	<name>spring-boot-keycloak-integration</name>
 	<description>Demo project for Spring Boot</description>
 	<packaging>pom</packaging>
 	<properties>
