@@ -55,5 +55,5 @@ public class SecurityConfig extends KeycloakWebSecurityConfigurerAdapter {
                 .authorizeRequests()
                 .anyRequest().permitAll();
     }
-    
+
 }
