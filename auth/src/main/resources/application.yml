@@ -1,0 +1,6 @@
+keycloak:
+  realm: adem
+  auth-server-url: http://localhost:8080
+  resource: myclient
+  public-client: true
+  bearer-only: true
